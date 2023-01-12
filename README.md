@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sidhanth-Kafley
+-    I'm currently working as a sotware engineer at Vermont Information Processing(VIP)
 - 👀 I’m interested in software engineering and robotics
 - 🌱 I’m currently learning machine learning and evolutionary robotics
 - 💞️ I’m looking to collaborate on any open source projects or personal projects
