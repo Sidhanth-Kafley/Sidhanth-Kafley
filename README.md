@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sidhanth-Kafley
--  ![image](https://user-images.githubusercontent.com/44246492/212185914-87abbe56-45f9-4a41-a87e-b5c487073843.png)
-  I'm currently working as a sotware engineer at Vermont Information Processing(VIP)
+- 💻 I'm currently working as a sotware engineer at Vermont Information Processing(VIP)
 - 👀 I’m interested in software engineering and robotics
 - 🌱 I’m currently learning machine learning and evolutionary robotics
 - 💞️ I’m looking to collaborate on any open source projects or personal projects
